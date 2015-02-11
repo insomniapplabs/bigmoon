@@ -1,4 +1,4 @@
-.landing-img { background:url("/assets/images/blackmamba.png");padding-top:125px;padding-bottom:125px; }
+.landing-img { background:#191919;padding-top:125px;padding-bottom:125px; }
 .rising { margin-bottom:0px;font-family:'latolight';text-transform:uppercase;color:#f9e4af;font-weight:600;font-size:3.0em;letter-spacing:1px; }
 .landing-btm { border-top:1px solid #aaa;padding-top:10px; }
 .landing-image { width:100%; }
@@ -23,7 +23,7 @@
 .intouch-text { font-family:'latolight';margin-bottom:20px; }
 .footer-container { background:#191919;padding:20px 0;font-size:1.1em;color:#888;font-weight:200;letter-spacing:1px; }
 .top-text { font-weight:100;font-size:3.0em;color:#fff;margin-top:100px; }
-.about-container { background:url("/assets/images/blackmamba.png");padding:100px 0 100px 0; }
+.about-container { background:#191919;padding:100px 0 100px 0; }
 .contact-container { padding:100px 0 100px 0; }
 .services-container { padding:100px 0 80px 0;background-color:#f8f8f8; }
 .portfolio-container { padding:100px 0 120px 0; }

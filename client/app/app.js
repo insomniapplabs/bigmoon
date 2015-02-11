@@ -7,7 +7,8 @@ angular.module('bigmoonApp', [
   'btford.socket-io',
   'ui.router',
   'ui.bootstrap',
-  'smoothScroll'
+  'smoothScroll',
+  'ngDialog'
 ])
   .config(function ($stateProvider, $urlRouterProvider, $locationProvider, $httpProvider) {
     $urlRouterProvider
